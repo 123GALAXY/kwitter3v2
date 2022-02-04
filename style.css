@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  color: #8b6c5c;
+}
+#h1{
+    font-size:80px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin-top: 50px;
+}
+#div1{
+    background-color: #d8cbcd;
+    width: 40%;
+    margin-top: 100px;
+    float:none;
+padding: 20px;
+border-radius: 20px;
+}
+#i1{
+    width: 250px;
+    height: 150px;
+}
+#h3{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 30px;
+}
+#h4{
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+}
+#p1{
+    font-weight: bold;
+}
+#t1{
+    font-family: 'Mochiy Pop P One', sans-serif;
+   height: 40px;
+   width: 150px;
+   font-size: 15px;
+}
+#b1{
+    background-color: #6a4a3a;
+    color: #bca89f;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}

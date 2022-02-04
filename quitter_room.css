@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    color: #8b6c5c;
+  }
+  #h1{
+      font-size:80px;
+      font-family: 'Mochiy Pop P One', sans-serif;
+      margin-top: 50px;
+  }
+  #i1{
+      width: 40px;
+      height: 40px;
+  }
+  #b1{
+    background-color: #bca89f;
+    color: #6a4a3a;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    float:right;
+    margin-top: -40px;
+  }
+  #h3,#h4,#trendingrooms{
+    font-family: 'Balsamiq Sans', cursive;
+    font-size: 30px;
+}
+#text_1{
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+   height: 40px;
+   width: 40%;
+   font-size: 15px;
+}
+#addroom{
+    background-color: #bca89f;
+    color: #6a4a3a;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+ 
+  }
